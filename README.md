@@ -39,7 +39,7 @@ This is a web application that brings native software functionality to the brows
         <strong>Central Workspace</strong>
       </p>
       <a href="docs/screenshots/main-screen-1.png">
-        <img src="docs/screenshots/main-screen-1.png" alt="NewsLyfe main view" width="90%"/>
+        <img src="docs/screenshots/main-screen-1.png" alt="NewsLyfe main view"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -47,7 +47,7 @@ This is a web application that brings native software functionality to the brows
         <strong>Real-time Filtering</strong>
       </p>
       <a href="docs/screenshots/main-screen-2.png">
-        <img src="docs/screenshots/main-screen-2.png" alt="NewsLyfe filtering options" width="90%"/>
+        <img src="docs/screenshots/main-screen-2.png" alt="NewsLyfe filtering options"/>
       </a>
     </td>
   </tr>
@@ -57,7 +57,7 @@ This is a web application that brings native software functionality to the brows
         <strong>Advanced Customization</strong>
       </p>
       <a href="docs/screenshots/main-screen-3.png">
-        <img src="docs/screenshots/main-screen-3.png" alt="NewsLyfe customization panel" width="80%"/>
+        <img src="docs/screenshots/main-screen-3.png" alt="NewsLyfe customization panel"/>
       </a>
     </td>
   </tr>
