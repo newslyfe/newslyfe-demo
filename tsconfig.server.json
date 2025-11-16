@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "outDir": "./dist/backend",
+    "rootDir": "./src/backend",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "nodenext",
+    "sourceMap": true,
+    "declaration": false,
+    "noEmit": false,
+    "allowJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "@server/*": ["src/backend/server/*"],
+      "@license/*": ["src/backend/license/*"],
+      "@shared/*": ["src/shared/*"]
+    }
+  },
+  "include": [
+    "src/backend/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
