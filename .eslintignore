@@ -1,0 +1,9 @@
+# Build output folders
+build
+dist
+
+# Dependencies
+node_modules
+
+# Configuration files that may not conform to standard linting rules
+vite.config.ts
